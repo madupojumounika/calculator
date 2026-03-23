@@ -25,7 +25,7 @@ Perform basic arithmetic operations like addition, subtraction, multiplication, 
 
 ## 📸 Preview
 
-![App Screenshot]() 
+![App Screenshot](https://github.com/madupojumounika/calculator/blob/191066b81e1e2312128bc82975bec872ad907f9b/Cal_ScreenShot.png) 
 
 ---
 
