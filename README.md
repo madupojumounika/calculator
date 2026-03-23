@@ -8,7 +8,7 @@ Perform basic arithmetic operations like addition, subtraction, multiplication, 
 ## ✨ Features
 
 🔢 Basic Arithmetic Operations (`+`, `-`, `×`, `÷`)  
-🧹 Clear Input (`C`) 
+🧹 Clear Input (`AC`) 
 📱 Responsive Design for Mobile & Desktop  
 🎨 Interactive Button Animations  
 🕘 Lightweight and Fast  
@@ -31,11 +31,14 @@ Perform basic arithmetic operations like addition, subtraction, multiplication, 
 
 ## 📂 Project Structure
 
+```
 Calculator/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
+
+```
 
 ---
 
