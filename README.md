@@ -31,7 +31,7 @@ Perform basic arithmetic operations like addition, subtraction, multiplication, 
 
 ## 📂 Project Structure
 
-Calculator_App/
+Calculator/
 ├── index.html
 ├── style.css
 ├── script.js
